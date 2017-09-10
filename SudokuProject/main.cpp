@@ -4,7 +4,7 @@
 int main()
 {
 	
-
+	freopen("sudoku.txt", "w", stdout);  
     
 	int u;
 	scanf("%d",&u);
